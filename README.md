@@ -1,4 +1,4 @@
-# Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-
+# Comparing-incarceration-rate-and-parent-income-in-Baltimore-MD-and-Washington-DC-
 This repository compares the incarceration rate in Baltimore, MD and Washington, DC and analyzes the relationship between the incarceration rate and parent income.
 
 ## Background 
