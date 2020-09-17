@@ -1,0 +1,38 @@
+-Baltimore-Incarceration Tab-
+Open Excel file with the original incarceration data of all parent income in Baltimore
+Sort out neighborhoods that end with Baltimore, MD - select the Name column and click Text to Column function. Then click comma and then freeze the top row and insert a filter. Then, for City column, just sort out the ones that contain Baltimore by using the filter function. 
+Use Vlookup to combine incarceration rate fo 75th percentile parent income, 50th percentile, 25th percentile from other workbooks that contain the original data. I used the unique tract number to combine different data. 
+Then, I calculated the min value by using the MIN function and max value using the MAX function and skewness by using the SKEW function
+To make a histogram chart for the incarceration rate of 75th percentile, I first made a range on the left side, and used FREQUENCY function on the right side to figure out how many numbers of neighborhoods belong to each range of incarceration rate.  
+Then I selected both range and number of neighborhoods columns and clicked Insert tab and clikced the column graph. Then I clicked the Chart Design tab, and and clicked Add Chart Element and added Axis titles and Chart Title
+I followed the same steps for both 50th percentile and 25th percentile
+Then for the combined linear graph, I selected the range and the number of neighborhoods column for 75th percentile and while I was pressing the command key, I would also select the number of neighborhoods columns for both 50th percentile and 25th percentile. Then I clicked Insert tab and click the line graph. Then I would also clikc the Add Chart Elements function to add title and axis titles. To change the legend names, I would have to double-click the graph and clikc select data and change the name there. 
+
+-Washington, DC-Incarceration Tab- 
+Open Excel file with the original incarceration data of all parent income in Washington, DC
+Sort out neighborhoods that end with Washington, DC - select the Name column and click Text to Column function. Then click comma and then freeze the top row and insert a filter. Then, for City column, just sort out the ones that contain Washington by using the filter function. 
+Then I followed the exact same steps as my Baltimore-Incarceration Tab
+
+-Combined Linear Graph Tab-
+First, I selected the range and the number of neighborhoods columns of 75th percentile parent income from Baltimore incarceration tab and also while pressing the commmand key, I would select the number of neighborhoods columns for both 50th and 25th percentile.
+While still pressing the command key I would go to Washington, DC Incarceration tab
+Then I would also select the number of neighborhoods columns for 75th, 50th, 25th percentile 
+Then I copied those data and pasted on a new tab 
+After I select the data that I pasted, I would click the Insert tab and click the linear graph
+Then I would add title for the graph and axis titles by clicking the Add Chart Element under Chart Design tab
+Then by double clicking each line graph, I would change the Dash Type and the color under Format Chart Area.
+
+-Pivot Table Tab-
+To make a pivot table, I would select the data in the Baltimore incarceration tab from tract number column to incarceration-25th percentile parent income column 
+Then I would hit Pivot Table function under Insert tab and create a pivot table on a new worksheet
+Then for Rows, I would put my neighborhood values and for values, I would put incarceration rate of all, 75th, 50th, 25th percentile 
+Then by clicking the small i icon next to each value item, I would select the average value to change each item to average. 
+I would follow the same steps for pivot table for Washington, DC except that I would select the range of data from the Washington, DC Incarceration tab
+Then to make line graphs based on the pivot table data, I would select the top title row (only for 75th, 50th and 25th) and the grand total values for each respective column (75th,50th, and 25th)
+And I would copy and paste the selected data on the right side and change the column title to simply just 75, 50, and 25
+I would follow the same steps for Washington pivot table
+After I copy and pasted both cities data, I would hit Insert tab and click Tables icon to make a table
+Then I would select the first baltimore table (Not the pivot table) that I made and click Insert tab and click line graph
+Then I had to click Switch Row/Column under Chart Design to make an appropriate chart 
+And I followed the same steps to make a chart for Washington table
+Then for both charts, I would Add Chart Element to add title and axis titles also to add data lables above each data point for the line graph 
