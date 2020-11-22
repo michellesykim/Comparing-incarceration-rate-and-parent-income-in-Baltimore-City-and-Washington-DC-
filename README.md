@@ -8,7 +8,7 @@ According to the 2020 OECD data, US has the highest incarceration rate among OEC
 ## Business question 
 Does one's parents' income (financial status) affects one's life trajectories, specifically, the likelihood of imprisonment?
 
-## Original Data
+## Original Data for Excel Analysis
 [Baltimore, MD - Original Incarceration Rate of All Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/commit/780f7f11639c9a5e1941d816491ddd84dbd97565
 
 [Baltimore, MD - Original Incarceration Rate of 75th Percentile Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/commit/ed00c976ddf74a4ce01e7371195cdf39a9fb9a67
@@ -24,6 +24,10 @@ Does one's parents' income (financial status) affects one's life trajectories, s
 [Washington, DC - Original Incarceration Rate of 50th Percentile Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/commit/b1c474f195113bf6d6a2905721d8da1272cae981
 
 [Washington, DC - Original Incarceration Rate of 25th Percentile Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/commit/3fea844ecf015234b4d7aca9f3ef9b3589b1b2e1
+
+## Original Data for Python Analysis
+### Same data as excel analysis 
+[
 
 ## Data Analysis / Metrics
 [Data Analysis on Incarceration data and Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/blob/master/Incarceration%20Data%20Analysis%20in%20BAL%20and%20DC.xlsx
