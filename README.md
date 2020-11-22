@@ -55,7 +55,7 @@ This excel file contains four tabs (sheets).
 
 4. Pivot Table Tab: I made pivot tables for both Baltimore and DC to see which city has a higher incarceration rate for each parent income percentile. Values are the average incarceration rate for each parent income percentile. Also, I made linear graphs for each city to show how the grand total average rate of incarceration rate increases as the parent income decreases and to see how significant the difference is. 
 
-## Python Notebooks/Analysis
+## Python Notebook/Analysis
 Used Python and Google Colaboratory to conduct analysis
 * **Python - comparing incarceration rate for different parent income in Baltimore City and Washington, DC**: a Google Colaboratory notebook to aggregate data and conduct analysis with Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18cx8aFYXv_lqru-SVgoHyZ07n1gX1sQu?usp=sharing)
 
