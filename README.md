@@ -27,7 +27,21 @@ Does one's parents' income (financial status) affects one's life trajectories, s
 
 ## Original Data for Python Analysis
 ### Same data as excel analysis 
-[
+[Python_bal_incar_all]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_bal_incar_75]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_bal_incar_50]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_bal_incar_25]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_dc_incar_all]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_dc_incar_75]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_dc_incar_50]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
+
+[Python_dc_incar_25]https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/commit/fed4d986a075e05ccb85a73b033d565c3c0fb65a
 
 ## Data Analysis / Metrics
 [Data Analysis on Incarceration data and Parent Income] https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/blob/master/Incarceration%20Data%20Analysis%20in%20BAL%20and%20DC.xlsx
@@ -40,6 +54,11 @@ This excel file contains four tabs (sheets).
 3. Combined Linear Graph Tab: I combined the linear graph (which combined three histograms) for both Baltimore and DC to see clearly if there is any difference or similarities in the trends. 
 
 4. Pivot Table Tab: I made pivot tables for both Baltimore and DC to see which city has a higher incarceration rate for each parent income percentile. Values are the average incarceration rate for each parent income percentile. Also, I made linear graphs for each city to show how the grand total average rate of incarceration rate increases as the parent income decreases and to see how significant the difference is. 
+
+## Python Notebooks/Analysis
+Used Python and Google Colaboratory to conduct analysis
+* **Python - comparing incarceration rate for different parent income in Baltimore City and Washington, DC**: a Google Colaboratory notebook to aggregate data and conduct analysis with Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18cx8aFYXv_lqru-SVgoHyZ07n1gX1sQu?usp=sharing)
+
 
 ## Results from my analysis and graphs
 
