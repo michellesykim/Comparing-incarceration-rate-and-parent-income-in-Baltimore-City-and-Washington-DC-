@@ -91,9 +91,9 @@ Similar result for DC. As you can see from the combined linear graph, more neigh
 ![alt text](https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/blob/master/Screen%20Shot%202020-11-22%20at%2010.07.54%20AM.png)
 
 #### Python vs. Excel for Washington, DC
-Same as Python vs. Excel for Baltimore City
+Washington DC analysis also has similar similarities and differences between Python and Excel as I mentioned in "Python vs. Excel for Baltimore City."
 
-
+#### Combined excel graph 
 ![alt text](https://github.com/michellesykim/Comparing-incarceration-rate-in-Baltimore-MD-and-Washington-DC-/blob/master/picture3.png)
 Red lines are from the DC linear graph and black lines are from the Baltimore linear graph. Now, combining two line graphs from Baltimore city and Washington, DC show similar pattern where low parents income increases the incarceration rate of their children. However, one significant difference is that the for Baltimore, it has a very high peak that stands out for 0.06% of incarceration rate. This not only tells that there are more neighborhoods in Baltimore city that have the incarceration rate of 0.06-0.7 but also tells that children who grew up under poor parents (25th percentile) are more vulnerable and more likely to be affected by their parents' low income or unstable financial status in Baltimore city compared to Washington, DC. Thus, this means that when one considers public policies that could lower the incarceration rate in Baltimore city, one has to think about how to help the 25th percentile parent income children specifically since they tend to be more affected by the poor and unstable financial environment.  
 
