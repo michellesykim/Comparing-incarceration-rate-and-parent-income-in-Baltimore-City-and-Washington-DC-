@@ -102,10 +102,10 @@ Red lines are from the DC linear graph and black lines are from the Baltimore li
 
 Looking at the pivot tables for Washington, DC and Baltimore City, the average incarceration rate in Baltimore city are higher than Washington, DC for all parent income percentile, 75th percentile, 50th percentile, and 25th percentile. This indicates that Baltimore city in general has a higher rate of incarceration than Washington, DC. This also shows that as the parent income percentile gets lower, the average incarceration rate gets higher in both cities. For both cities, incarceration rate of 25th percentile parent income increased more than 100% from 75th percentile value which is a significant increase. Thus, the parent income status does affect their children's life especially their incarceration rate. 
 
+#### Python vs. Excel for Average Incarceration Rate
 ![alt text](https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/blob/master/Screen%20Shot%202020-11-22%20at%2010.24.04%20AM.png)
 ![alt text](https://github.com/michellesykim/Comparing-incarceration-rate-and-parent-income-in-Baltimore-City-and-Washington-DC-/blob/master/Screen%20Shot%202020-11-22%20at%2010.26.09%20AM.png)
 
-#### Python vs. Excel
 In terms of data visualization, both Excel and Python generated exact same graphs. However, it was much easier to use Python, since for excel, I had to create a pivot table and then make a pivot chart to make a graph with the average incarceration rate for each parent income percentile. Whereas in Python, I was just able to use a line of code to calculate the average and plot the chart. Also, for Python, using the zoom function, I was able to zoom in and predict the average incarceration rate for parent income between 25th percentile and 50th percentile or 50th percentile and 75th percentile.
 
 ## Python vs. Excel Conclusion
